@@ -15,7 +15,7 @@ import std/[
 randomize()
 
 let
-  BALL = "⏺"
+  BALL = "●"
   STAR = "★"
   COLOR = {
     "blue": "\u001B[94m",
